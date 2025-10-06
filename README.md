@@ -4,8 +4,11 @@
 Python Full-Stack Developer — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
 
 🔭 Current project: ToDO APP (Auth + Django + MySQL)
+
 ✅ I write tests with pytest and use GitHub Actions (CI)
+
 🌱 Learning: caching, async, system design basics
+
 🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/panigrahi-nikhil-karthik2004/  ​ • 📫 nikhilkarthik970@gmail.com
 
 ## Tech
